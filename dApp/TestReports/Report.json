@@ -1,0 +1,9 @@
+{
+    "building name": "Bishop-Favrao Hall",
+    "report num": "7",
+    "report period": "week",
+    "Input CID": "https://ipfs.io/ipfs/QmebKvV6W6tkJv1jmrUTGSAdwLRrz3xNagDGGL86sKjJcf",
+    "Baseline": "23.97",
+    "Baseline Unit": "average kWh per day",
+    "Output CID": "https://ipfs.io/ipfs/QmSx1ervE7E4VC3XDZ2yqx3kx5EcSZi3ZRKDjRGtBhbjar"
+}

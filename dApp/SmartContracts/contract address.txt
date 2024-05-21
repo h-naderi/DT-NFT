@@ -1,0 +1,9 @@
+deployed version on Goerli NOVEMBER: 0x8f30c340Fc3eaa33d19332Bfd34B56a01a4DA593 
+
+Before Pitch Ceremony
+deployed Data Collector contract address Sepolia: 0x42873bBBbD24447c1eB74d93508765cFa12A3993
+deployed dynNFT contract address Sepolia: 0xE151088F6F97D6416A14716e1b0b00613cCe940C
+
+deployed Data Collector contract address Goerli: 0xbB23bDFC95F7E6CfC08c6E12A19D9D0Fc6203c53
+deployed dyNFT contract address Goerli: 0xe469a61972d426eaaE30c0Db0FDAc378106e8Ee1
+deployed TokenMinter contract address Goerli: 0xF42a130Cb60edc2c68D50Ee654bE8438eD5636dd

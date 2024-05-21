@@ -1,0 +1,19 @@
+{
+    "name": "Digital Twin NFT",
+    "description": "This is a test dynamic NFT, showing the state-01 of Digital Twin for Bishop Favrao Hall for showing in OpenSea MarketPlace. Click Make an Offer to own this Digital Twin",
+    "image": "https://ipfs.io/ipfs/QmYHvsHEJR6hmyW8VXACQQZfE9czc29ch3SQUnhuGXhfFn",
+    "attributes": [
+        {
+            "trait-type": "Report Number",
+            "value": "Report No. 2"
+        },
+        {
+            "trait-type": "Progress",
+            "value": "Progress= 98%"
+        },
+        {
+          "trait-type": "Passed days",
+          "value": "Passed days= 411"
+      }
+    ]
+}
